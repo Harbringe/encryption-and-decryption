@@ -20,9 +20,9 @@ python encryption_decryption.py
 
 4. Follow the on-screen prompts:
 
-- Enter a key (integer) for the randomization process.
-- Enter the message you want to encrypt or decrypt.
-- Choose whether to encrypt (1) or decrypt (2) the message.
+  - Enter a key (integer) for the randomization process.
+  - Enter the message you want to encrypt or decrypt.
+  - Choose whether to encrypt (1) or decrypt (2) the message.
 
 5. The program will display the encrypted or decrypted message based on your choice.
 
